@@ -40,7 +40,7 @@ SDL_Texture* mTexture;
 
 
 
-class Ttexture
+class Ttexture              //этот класс писал не я
 {
 public:
     Ttexture();
@@ -419,7 +419,7 @@ int main(int argc, char* argv[]) {
     gTtexture.setBlendMode(SDL_BLENDMODE_BLEND);
     gTtexture.setColor(255,255,255);
 
-    if (!quit) menu();              // and loadMedia("Play")
+    if (!quit) menu();
     while (running) {
         if(stopped>0){
             for (int x = 0; x < G_W; x++) {
