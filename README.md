@@ -7,4 +7,4 @@ life.exe - MVP игра (без меню и сохранений)
 
 Project1.exe - моя попытка создания меню
 
-В попке code код Project1
+В пaпке code код Project1
